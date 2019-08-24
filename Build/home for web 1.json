@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "my home",
+"dataUrl": "home for web 1.data.unityweb",
+"asmCodeUrl": "home for web 1.asm.code.unityweb",
+"asmMemoryUrl": "home for web 1.asm.memory.unityweb",
+"asmFrameworkUrl": "home for web 1.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
